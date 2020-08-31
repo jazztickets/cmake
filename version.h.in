@@ -1,1 +1,1 @@
-const int BUILD_NUMBER = @BUILD_NUMBER@;
+const char *const BUILD_VERSION = "@BUILD_VERSION@";
